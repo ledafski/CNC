@@ -8,6 +8,7 @@ Building a new machine shuld fullfil following requirements:
 * fast on each axis
 * easy connection method
 * maybe portable or moveable
+* strong frame for all axis
 
 ## Building Equipment
  
